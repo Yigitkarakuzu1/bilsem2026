@@ -1,1 +1,1 @@
-# bilsem2026
+# bilsem-2026
